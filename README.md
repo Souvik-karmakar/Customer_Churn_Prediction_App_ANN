@@ -80,7 +80,7 @@ The trained model is deployed using **Streamlit**, allowing users to:
 ---
 
 ## 🖼️ Application Screenshots
-![Prediction Result](screenshots/prediction.png)
+![Prediction Result](Churn_prediction_ANN.png)
 
 ---
 
