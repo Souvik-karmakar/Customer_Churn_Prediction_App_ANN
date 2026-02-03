@@ -104,7 +104,6 @@ The trained model is deployed using **Streamlit**, allowing users to:
 ---
 
 ## ▶️ Run Locally
-```bash
 git clone https://github.com/your-username/customer_churn_prediction_app_ann.git
 cd customer_churn_prediction_app_ann
 pip install -r requirements.txt
